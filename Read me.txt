@@ -1,0 +1,25 @@
+Read me
+
+- The complete code  is in the file named "Omer-Thesis-2035939.ipynb"
+
+- download all the files and save it in a filder named "Omer-Thesis-2020".
+
+- Upload the folder "Omer-Thesis-2020 " on your google drive.
+
+- open the code on google colab.
+
+- First mount your drive containing the data folder with the google colab. 
+
+- Now you are ready to run the code.
+
+- Make sure to download the "averaged_perceptron_tagger", "punkt","wordnet" and "stopwords" package from nltk.
+
+- The code for the pre-processing is written as one single function.
+
+- the previous data is in the files named "test_data.pickle.zip" and "training_data.pickle.zip"
+
+- the data collected in the process of this thesis is in the two files named "data_team_a.csv" and "data_team_b.csv". 
+
+- All the features are extracted through the TF-IDF approach. 
+
+- Make sure that the correct google drive is mounted with the google colab. If all the modules and packages are installed correctly the script should run fine.
